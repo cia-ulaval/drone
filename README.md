@@ -2,7 +2,7 @@
 
 ## Fiche d'Identité
 
-*   **Type de projet :** Projet Club
+*   **Type de projet :** Projet du Club
 *   **Team Lead :** Anthony Lavertu
 *   **Partenaire Académique/Industriel :** Philippe Giguère
 *   **Effectif recherché :** 5 membres
